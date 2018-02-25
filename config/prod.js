@@ -1,5 +1,4 @@
 //prod keys here
-
 module.exports = {
   GoogleClientId: process.env.GOOGLE_CLIENT_ID,
   googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
